@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Rahul Viswanath princple at Creative American Consultants Inc
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://www.linkedin.com/in/anjurahul/
+- 📫 How to reach me ...anjurahul@anjurahul.com
 
 
 At Creative American Consultants, our mission is to deliver innovative IT solutions that make what you do easier. 
